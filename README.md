@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 ## Features
 
-- 📦 HTML, CSS & JAVASCRIPT.
+- 📦 React, My-SQL & JAVA-Springboot.
 
 ## Getting Started
 
