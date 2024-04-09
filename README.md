@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 ## Features
 
-- 📦 React, My-SQL & JAVA-Springboot.
+- 📦 React, My-SQL & JAVA-Springboot
 
 ## Getting Started
 
